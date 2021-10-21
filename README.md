@@ -47,17 +47,15 @@
 
 ### You are JUST 5 minutes away to create Your First REST API, what YOU are waiting for? Lets START..
 
-<a href="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/LARAVEL-PASSPORT" alt="REST API with LARAVEL - PASSPORT">REST API with LARAVEL - PASSPORT</a>  
-<a href="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PHP-OOPS" alt="REST API with PHP - OOPS">REST API with PHP - OOPS</a>  
-  * [REST API with PHP - OOPS](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PHP-OOPS)  
-  * [REST API with PYTHON - FLASK](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PYTHON)
-  * [REST API with PYTHON - DJANGO - RESTFRAMEWORK](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PYTHON-DJANGO-REST-FRAMEWORK)
-  * [REST API with GO - MUX](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/GOLANG-MUX)  
-  
-  * [REST API with GO - GIN](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/GOLANG-GIN)
-  * [REST API with NodeJS - EXPRESS - Basic](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/NODEJS-EXPRESS-MYSQL)
-  * [REST API with NodeJS - EXPRESS- JWT - SEQUELlZE - Advance](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/NODEJS-EXPRESS-SEQUELlZE-JWT-AUTH)
+* [REST API with LARAVEL - PASSPORT](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/LARAVEL-PASSPORT)  
+* [REST API with PHP - OOPS](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PHP-OOPS)  
+* [REST API with PYTHON - FLASK](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PYTHON)
+* [REST API with PYTHON - DJANGO - RESTFRAMEWORK](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PYTHON-DJANGO-REST-FRAMEWORK)
+* [REST API with GO - MUX](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/GOLANG-MUX)  
 
+* [REST API with GO - GIN](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/GOLANG-GIN)
+* [REST API with NodeJS - EXPRESS - Basic](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/NODEJS-EXPRESS-MYSQL)
+* [REST API with NodeJS - EXPRESS- JWT - SEQUELlZE - Advance](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/NODEJS-EXPRESS-SEQUELlZE-JWT-AUTH)
 <!--<a href="https://github.com/TravelXML">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravelXML&theme=light&hide_langs_below=1" />
 </a>
