@@ -17,7 +17,7 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" align="right" /> 
 
-- :necktie: Working on [Travjury Software :india:](https://www.travjury.com/), Priore  - [Openhotelier :maldives:](https://www.openhotelier.com/).
+- :necktie: Working on [Travjury Software :india:](https://www.travjury.com/), Priore  - [openhotelier :maldives:](https://www.openhotelier.com/).
 - :computer: Hands-on Flutter, Dart, Vue, Node, Python. PHP, Go, Solidity 
 - :goggles: Looking on AI, ML, Blcokchain
 
