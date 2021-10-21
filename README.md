@@ -27,14 +27,14 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt ="Flutter"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" title ="Flutter"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt ="Dart"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt ="Javascript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt ="VUE"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt ="NODE"></code> 
-<code><img height="20" src="https://user-images.githubusercontent.com/8361967/138249015-3c9dbdc7-30ba-42f2-9498-c0931c50cf5e.png" alt ="Flutter"></code> 
-<code><img height="20" src="https://user-images.githubusercontent.com/8361967/138249446-5716f1d9-0761-435c-827d-b05cba209327.png" alt ="Laravel"></code> 
-<code><img height="20" src="https://user-images.githubusercontent.com/8361967/138249923-30a097b8-11eb-48a6-af15-078c7d6659a9.png" alt ="Django"></code> 
+<code><img height="20" src="https://user-images.githubusercontent.com/8361967/138249015-3c9dbdc7-30ba-42f2-9498-c0931c50cf5e.png" alt ="Laravel"></code> 
+<code><img height="20" src="https://user-images.githubusercontent.com/8361967/138249446-5716f1d9-0761-435c-827d-b05cba209327.png" alt ="Django"></code> 
+<code><img height="20" src="https://user-images.githubusercontent.com/8361967/138249923-30a097b8-11eb-48a6-af15-078c7d6659a9.png" alt ="Python"></code> 
 <code><img height="20" src="https://user-images.githubusercontent.com/8361967/138250432-71d9a112-d037-442f-873c-4aea29bb952e.png" alt ="GO"></code> 
 
 
