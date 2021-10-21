@@ -1,6 +1,6 @@
 ## APIBuilder PYTHON, GO, Node, PHP :raised_hand_with_fingers_splayed:
 
-<img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" align="right" /> 
+
 
 <a href="https://twitter.com/htngapi">
 <img align="right" alt="API Developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -15,6 +15,7 @@
 <a href="https://medium.com/@apige">
 <img align="right" alt="CTO, Product Owner, Project Manager" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" align="right" /> 
 
 - :necktie: Working on [Travjury Software :india:](https://www.travjury.com/), Priore  - [Openhotelier :maldives:](https://www.openhotelier.com/).
 - :computer: Hands-on Flutter, Dart, Vue, Node, Python. PHP, Go, Solidity 
