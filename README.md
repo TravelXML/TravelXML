@@ -62,6 +62,5 @@
 </a>-->
 <div>
 
-### Show some :hearts: by starring some of the repositories!
-
+### Show some :hearts:
 </div>
