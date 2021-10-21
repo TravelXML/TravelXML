@@ -1,8 +1,7 @@
 ## APIBuilder PYTHON, GO, Node, PHP :raised_hand_with_fingers_splayed:
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
 <div align="right">
+<img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" /> 
+
 <a href="https://twitter.com/htngapi">
   <img align="right" alt="API Developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
