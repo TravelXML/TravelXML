@@ -36,22 +36,21 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<a href="https://github.com/TravelXML">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravelXML&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/TravelXML">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TravelXML&show_icons=true&theme=light&line_height=40" alt="API Developer's github stats"/>
-</a>
+
 
 ## BUILD REST API and White-Label Services using Most Trending Technology
-<hr/>
 
 <a href="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/">
   <img align="center" src="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/blob/main/images/Build%20REST%20api.png" />
 
 </a>
 
-
+<!--<a href="https://github.com/TravelXML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravelXML&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/TravelXML">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=TravelXML&show_icons=true&theme=light&line_height=40" alt="API Developer's github stats"/>
+</a>-->
 <div align="center">
 
 ### Show some :hearts: by starring some of the repositories!
