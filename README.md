@@ -2,17 +2,17 @@
 
 
 
-<a href="https://twitter.com/htngapi">
+<a href="https://twitter.com/htngapi" target=”_blank”>
 <img align="right" alt="API Developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/travel-technology-cto">
+<a href="https://linkedin.com/in/travel-technology-cto" target=”_blank”>
 <img align="right" alt="CTO - Travel Technology" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/TravelXML">
+<a href="https://github.com/TravelXML" target=”_blank”>
 <img align="right" alt="Travel Technology Consultant" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://medium.com/@apige">
+<a href="https://medium.com/@apige" target=”_blank”>
 <img align="right" alt="CTO, Product Owner, Project Manager" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" align="right" /> 
@@ -38,7 +38,7 @@
 
 ## BUILD REST API and White-Label Services using Most Trending Technology & Frameworks
 
-<a href="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/">
+<a href="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/" target=”_blank”>
   <img align="center" src="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/blob/main/images/Build%20REST%20api.png" />
 
 </a>
