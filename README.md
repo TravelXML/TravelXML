@@ -43,8 +43,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TravelXML&show_icons=true&theme=light&line_height=40" alt="API Developer's github stats"/>
 </a>
 
-<a href="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/GOLANG-MUX">
-  <img align="center" src="https://raw.githubusercontent.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/main/images/Build-REST-API-USING-GO-MUX.png" height="350" Width="350"/>
+<a href="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/">
+  <img align="center" src="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/blob/main/images/Build%20REST%20api.png" height="350" Width="350"/>
 
 </a>
 
