@@ -1,11 +1,10 @@
 ## APIBuilder PYTHON, GO, Node, PHP :raised_hand_with_fingers_splayed:
 
-<div>
-  <div align="left">
-  - :necktie: Working on [Travjury Software :india:](https://www.travjury.com/), Priore  - [Openhotelier :maldives:](https://www.openhotelier.com/).
-  - :computer: Hands-on Flutter, Dart, Javascript, Vue, Node, Python. PHP, Go, Solidity 
-  - :goggles: Looking on AI, ML, Blcokchain
-  </div>
+<div align="left">
+- :necktie: Working on [Travjury Software :india:](https://www.travjury.com/), Priore  - [Openhotelier :maldives:](https://www.openhotelier.com/).
+- :computer: Hands-on Flutter, Dart, Javascript, Vue, Node, Python. PHP, Go, Solidity 
+- :goggles: Looking on AI, ML, Blcokchain
+ </div>
   <div align="right">
     <img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" /> 
 
