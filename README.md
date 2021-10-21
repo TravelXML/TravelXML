@@ -12,6 +12,10 @@
   <img align="left" alt="Travel Technology Consultant" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<a href="https://medium.com/@apige">
+  <img align="left" alt="CTO, Product Owner, Project Manager" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
 <br/>
 <br/>
 
@@ -20,13 +24,7 @@
 - :computer: Hands-on Flutter, Dart, Javascript, Vue, Node, Python. PHP, Go, Solidity 
 - :goggles: Looking on AI, ML, Blcokchain
 
-[![Twitter: htngapi](https://img.shields.io/twitter/follow/htngapi?style=social)](https://twitter.com/htngapi)
 
-[![Linkedin: travel-technology-cto](https://img.shields.io/badge/-travel-technology-cto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/travel-technology-cto/)](https://www.linkedin.com/in/travel-technology-cto/)
-
-[![medium apige](https://img.shields.io/github/followers/TravelXML?label=follow&style=social)](https://medium.com/@apige)
-
-[![GitHub TravelXML](https://img.shields.io/github/followers/TravelXML?label=follow&style=social)](https://github.com/TravelXML)
 
 
 **Languages and Tools:**  
@@ -42,15 +40,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravelXML&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/TravelXML">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TravelXML&show_icons=true&theme=light&line_height=27" alt="API Developer's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=TravelXML&show_icons=true&theme=light&line_height=50" alt="API Developer's github stats"/>
 </a>
 <a href="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/GOLANG-GIN">
-  <img align="center" src="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/blob/main/images/GO_GIN_MAiN.png"  height="120" Width="100"/>
+  <img align="center" src="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/blob/main/images/GO_GIN_MAiN.png"  height="220" Width="200"/>
 
 </a>
 
 <a href="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/GOLANG-MUX">
-  <img align="center" src="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/blob/main/images/GOLANG-MUX.png" height="120" Width="100"/>
+  <img align="center" src="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/blob/main/images/GOLANG-MUX.png" height="220" Width="200"/>
 
 </a>
 
