@@ -40,10 +40,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravelXML&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/TravelXML">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TravelXML&show_icons=true&theme=light&line_height=35" alt="API Developer's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=TravelXML&show_icons=true&theme=light&line_height=40" alt="API Developer's github stats"/>
 </a>
 <a href="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/GOLANG-GIN">
-  <img align="center" src="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/blob/main/images/GO_GIN_MAiN.png"  height="250" Width="250"/>
+  <img align="center" src="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/blob/main/images/GO_GIN_MAiN.png"  height="350" Width="350"/>
 
 </a>
 
