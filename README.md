@@ -54,6 +54,6 @@
 
 <div align="center">
 
-### Show some â¤ï¸ by starring some of the repositories!
+### Show some :hearts: by starring some of the repositories!
 
 </div>
