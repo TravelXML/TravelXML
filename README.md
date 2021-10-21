@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://medium.com/@apige">
-  <img align="left" alt="CTO, Product Owner, Project Manager" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="right" alt="CTO, Product Owner, Project Manager" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
   </div>
 
