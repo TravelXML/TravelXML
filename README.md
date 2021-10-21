@@ -1,22 +1,22 @@
 ## APIBuilder PYTHON, GO, Node, PHP :raised_hand_with_fingers_splayed:
 
-  <div align="right">
-    <img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" /> 
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" /> 
 
-    <a href="https://twitter.com/htngapi">
-      <img align="right" alt="API Developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-    </a>
-    <a href="https://linkedin.com/in/travel-technology-cto">
-      <img align="right" alt="CTO - Travel Technology" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-    <a href="https://github.com/TravelXML">
-      <img align="right" alt="Travel Technology Consultant" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-    </a>
+<a href="https://twitter.com/htngapi">
+  <img align="right" alt="API Developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/travel-technology-cto">
+  <img align="right" alt="CTO - Travel Technology" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/TravelXML">
+  <img align="right" alt="Travel Technology Consultant" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-    <a href="https://medium.com/@apige">
-      <img align="right" alt="CTO, Product Owner, Project Manager" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-    </a>
-  </div>
+<a href="https://medium.com/@apige">
+  <img align="right" alt="CTO, Product Owner, Project Manager" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+</div>
 - :necktie: Working on [Travjury Software :india:](https://www.travjury.com/), Priore  - [Openhotelier :maldives:](https://www.openhotelier.com/).
 - :computer: Hands-on Flutter, Dart, Javascript, Vue, Node, Python. PHP, Go, Solidity 
 - :goggles: Looking on AI, ML, Blcokchain
