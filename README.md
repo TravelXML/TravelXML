@@ -17,7 +17,7 @@
 </a>
 
 - :necktie: Working on [Travjury Software :india:](https://www.travjury.com/), Priore  - [Openhotelier :maldives:](https://www.openhotelier.com/).
-- :computer: Hands-on Flutter, Dart, Javascript, Vue, Node, Python. PHP, Go, Solidity 
+- :computer: Hands-on Flutter, Dart, Vue, Node, Python. PHP, Go, Solidity 
 - :goggles: Looking on AI, ML, Blcokchain
 
 
