@@ -58,8 +58,9 @@
 * [REST API with GO - GIN](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/GOLANG-GIN)
 * [REST API with NodeJS - EXPRESS](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/NODEJS-EXPRESS-MYSQL)
 * [REST API with NodeJS - EXPRESS- JWT - SEQUELlZE](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/NODEJS-EXPRESS-SEQUELlZE-JWT-AUTH)
-* [REST API with LARAVEL - PASSPORT](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/LARAVEL-PASSPORT)  
 * [REST API with PHP - OOPS](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PHP-OOPS)  
+* [REST API with LARAVEL - PASSPORT](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/LARAVEL-PASSPORT)  
+
 <!--<a href="https://github.com/TravelXML">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravelXML&theme=light&hide_langs_below=1" />
 </a>
