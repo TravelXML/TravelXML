@@ -26,10 +26,10 @@
 <br/>
 <br/>
 <a href="https://medium.com/@apige" target=”_blank”>
-<img align="right" alt="CTO, Product Owner, Project Manager" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<img align="left" alt="CTO, Product Owner, Project Manager" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://linkedin.com/in/travel-technology-cto" target=”_blank”>
-<img align="right" alt="CTO - Travel Technology" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="CTO - Travel Technology" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 **Languages:**  
