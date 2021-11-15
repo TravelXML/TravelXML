@@ -31,6 +31,7 @@
 <a href="https://linkedin.com/in/travel-technology-cto" target=”_blank”>
 <img align="left" alt="CTO - Travel Technology" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br/>
 
 **Languages:**  
 
