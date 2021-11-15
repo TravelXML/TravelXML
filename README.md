@@ -25,6 +25,8 @@
 
 <br/>
 <br/>
+🖋️[My Write ](https://apige.medium.com/)
+  [linkedin](https://www.linkedin.com/in/travel-technology-cto/)
 
 **Languages:**  
 
