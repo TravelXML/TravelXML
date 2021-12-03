@@ -44,7 +44,7 @@
 
 
 
-## BUILD REST API and White-Label Services using Most Trending Technology & Frameworks
+## BUILD REST API and White-Label Business using Most Trending Technology & Frameworks
 
 <a href="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/" target=”_blank”>
   <img align="center" src="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/blob/main/images/Build%20REST%20api.png" />
