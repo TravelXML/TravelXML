@@ -71,7 +71,10 @@
 </a>-->!
 
 # Clone Apps Using GraphQL, Cassandra, React, Next, Nodejs
-<img src="https://user-images.githubusercontent.com/8361967/145662606-6e676415-bbd2-4351-a040-030af2e5e95b.png"/>
+
+<img src="https://user-images.githubusercontent.com/8361967/145662837-399eb8f5-0043-4586-97f8-96f6525f692e.png"/>
+
+
 
 ### Clone Trending Apps using Nodejs, Reactjs, Nextjs, GraphQL in 30 minutes..
 
