@@ -69,11 +69,10 @@
 <a href="https://github.com/TravelXML">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TravelXML&show_icons=true&theme=light&line_height=40" alt="API Developer's github stats"/>
 </a>-->!
+
 # Clone Apps Using GraphQL, Cassandra, React, Next, Nodejs
-
-
-### Clone Trending Apps using Nodejs, Reactjs, Nextjs, GraphQL in 30 minutes..
 <img src="https://user-images.githubusercontent.com/8361967/145662606-6e676415-bbd2-4351-a040-030af2e5e95b.png"/>
+### Clone Trending Apps using Nodejs, Reactjs, Nextjs, GraphQL in 30 minutes..
 
 * [Netflix Clone with AstraDB, GraphQL, React, Next, Nodejs](https://github.com/TravelXML/NETFLIX-CLONE-WITH-ASTRADB-GRAPHQL)
 * [Airbnb Clone with Sanity, GraphQL, Next, React, Nodejs](https://github.com/TravelXML/AIRBNB-CLONE-SANITY-NEXT-REACT)
