@@ -70,7 +70,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TravelXML&show_icons=true&theme=light&line_height=40" alt="API Developer's github stats"/>
 </a>-->
 
-#  Clone Trending Apps using Nodejs, Reactjs, Nextjs, GraphQL in 30 minutes..
+#  Clone Trending Apps using Nodejs, Reactjs, Nextjs, GraphQL in 60 minutes..
 
 * [Netflix Clone with AstraDB, GraphQL, React, Next, Nodejs](https://github.com/TravelXML/NETFLIX-CLONE-WITH-ASTRADB-GRAPHQL)
 * [Airbnb Clone with Sanity, GraphQL, Next, React, Nodejs](https://github.com/TravelXML/AIRBNB-CLONE-SANITY-NEXT-REACT)
