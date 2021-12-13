@@ -35,8 +35,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" title ="Dart"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title ="Javascript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title ="VUE"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/8361967/145761483-e65c17ab-b1bf-4fe5-9545-83da097eba94.png" title ="REACT"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/8361967/145761480-a4c58bea-cc95-482b-9ad0-300387df49d3.png" title ="NEXTJS"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/8361967/145761480-a4c58bea-cc95-482b-9ad0-300387df49d3.png" title ="REACT"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/8361967/145761483-e65c17ab-b1bf-4fe5-9545-83da097eba94.png" title ="NEXTJS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title ="NODE"></code> 
 <code><img height="20" src="https://user-images.githubusercontent.com/8361967/138249015-3c9dbdc7-30ba-42f2-9498-c0931c50cf5e.png" title ="Laravel"></code> 
 <code><img height="20" src="https://user-images.githubusercontent.com/8361967/138249446-5716f1d9-0761-435c-827d-b05cba209327.png" title ="Django"></code> 
