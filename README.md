@@ -73,7 +73,9 @@
 #  Clone trending Apps using Nodejs, Reactjs, Nextjs, GraphQL in 1 Hour...
 
 * [Netflix Clone with AstraDB, GraphQL, React, Next, Nodejs](https://github.com/TravelXML/NETFLIX-CLONE-WITH-ASTRADB-GRAPHQL)
+
 * [Airbnb Clone with Sanity, GraphQL, Next, React, Nodejs](https://github.com/TravelXML/AIRBNB-CLONE-SANITY-NEXT-REACT)
+
 * [Disney Clone using GraphCMS, GraphQL, NEXT, React, Nodejs](https://github.com/TravelXML/DISNEY-CLONE-USING-GRAPHCMS-GRAPHQL-NEXT-REACT)
 
 
