@@ -83,7 +83,7 @@
 
 * [Web Scraping using nodejs, axios, cheerio](https://github.com/TravelXML/WEB-SCRAPING)
 
-* [Flipkart Scraping using Python](https://github.com/TravelXML/FLIPKART-PRODUCT-PRICE-SCRAPING)
+* [Flipkart Scraping using Python](https://github.com/TravelXML/FLIPKART-PRODUCT-PRICE-SCRAPPING)
 
 
 
