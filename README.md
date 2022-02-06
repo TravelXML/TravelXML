@@ -83,7 +83,7 @@
 
 * [Web Scraping using nodejs, axios, cheerio](https://github.com/TravelXML/NETFLIX-CLONE-WITH-ASTRADB-GRAPHQL)
 
-* [Flipkart Scraping using Python](Scrapping)
+* [Flipkart Scraping using Python](https://github.com/TravelXML/FLIPKART-PRODUCT-PRICE-SCRAPING)
 
 
 
