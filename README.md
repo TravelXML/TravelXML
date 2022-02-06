@@ -79,6 +79,17 @@
 * [Disney Clone using GraphCMS, GraphQL, NEXT, React, Nodejs](https://github.com/TravelXML/DISNEY-CLONE-USING-GRAPHCMS-GRAPHQL-NEXT-REACT)
 
 
+#  Web Scraping using python node js in 30 min...
+
+* [Web Scraping using nodejs, axios, cheerio](https://github.com/TravelXML/NETFLIX-CLONE-WITH-ASTRADB-GRAPHQL)
+
+* [FLIPKART Scraping using Python](https://github.com/TravelXML/AIRBNB-CLONE-SANITY-NEXT-REACT)
+
+
+
+
+
+
 <div>
 
 
