@@ -18,7 +18,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" align="right" /> 
 
-- :necktie: Working with Browntape Prior  - [Travjury Software :india:](https://www.travjury.com/),[openhotelier :maldives:](https://www.openhotelier.com/).
+- :necktie: Working with [Browntape Technologies](https://browntape.com/) Prior  - [Travjury Software :india:](https://www.travjury.com/),[openhotelier :maldives:](https://www.openhotelier.com/).
 - :computer: Hands-on: Flutter, Dart, Vue, React, Next, Node, Python. PHP, Go, Solidity 
 - :goggles: Looking on AI, ML, Blockchain
 - :dart: Ask anything about API...
