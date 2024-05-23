@@ -85,7 +85,9 @@
 
 * [Flipkart Scraping using Python](https://github.com/TravelXML/FLIPKART-PRODUCT-PRICE-SCRAPPING)
 
-#  KAFKA - Implementation with Node.js & Kafkajs - Order Management System / Inventory management System in 60 mins..
+
+
+#  KAFKA - Implementation with Node.js & Kafkajs - Order Management System / Inventory management System in 1 Hour..
 * [KAFKA - Implementation with Node.js & Kafkajs](https://github.com/TravelXML/KAFKA)
 
 
