@@ -51,7 +51,7 @@
 
 </a>
 
-### You are JUST 5 minutes away to create Your First REST API, what YOU are waiting for? Lets START..
+### You are JUST 5 minutes away to create Your First API, what YOU are waiting for? Lets START..
 
 * [REST API with PYTHON - FLASK](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PYTHON)
 * [REST API with PYTHON - DJANGO - RESTFRAMEWORK](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PYTHON-DJANGO-REST-FRAMEWORK)
