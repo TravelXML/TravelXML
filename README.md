@@ -44,7 +44,7 @@
 <code><img height="20" src="https://user-images.githubusercontent.com/8361967/138253104-57a7783c-7b51-4083-a8c6-071ddcf366a1.png" title ="PHP"></code> 
 
 
-## [BUILD REST API and White-Label Business using Most Trending Technology & Frameworks](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples)
+## [BUILD REST/ GRAPHQL/ SOAP API and White-Label Business using Most Trending Technology & Frameworks](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples)
 
 <a href="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/" target=”_blank”>
   <img align="center" src="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/blob/main/images/Build%20REST%20api.png" />
