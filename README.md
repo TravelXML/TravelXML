@@ -65,8 +65,6 @@
 * [GRAPHQL API with RATE Limiting and Pagination - Docker](https://github.com/TravelXML/GraphQL-MySQL-API-with-JWT-Authentication-and-Rate-Limiting)
 * [SOAP API With PHP - MYSQL](https://github.com/TravelXML/SOAP-API-MYSQL-PHP-PAGINATION/tree/main)
 
-* https://github.com/TravelXML/SOAP-API-MYSQL-PHP-PAGINATION/tree/main
-
 
 <!--<a href="https://github.com/TravelXML">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravelXML&theme=light&hide_langs_below=1" />
