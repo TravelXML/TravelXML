@@ -62,7 +62,10 @@
 * [REST API with NodeJS - EXPRESS- JWT - SEQUELlZE](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/NODEJS-EXPRESS-SEQUELlZE-JWT-AUTH)
 * [REST API with PHP - OOPS](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PHP-OOPS)  
 * [REST API with LARAVEL - PASSPORT](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/LARAVEL-PASSPORT)
-* [GRAPHQL API with RATE Limiting and Pagination - Docker](https://github.com/TravelXML/GraphQL-MySQL-API-with-JWT-Authentication-and-Rate-Limiting)  
+* [GRAPHQL API with RATE Limiting and Pagination - Docker](https://github.com/TravelXML/GraphQL-MySQL-API-with-JWT-Authentication-and-Rate-Limiting)
+* [SOAP API with PHP - MYSQL](https://github.com/TravelXML/SOAP-API-MYSQL-PHP-PAGINATION/tree/main)
+
+* https://github.com/TravelXML/SOAP-API-MYSQL-PHP-PAGINATION/tree/main
 
 
 <!--<a href="https://github.com/TravelXML">
