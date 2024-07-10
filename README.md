@@ -92,6 +92,7 @@
 
 #  KAFKA - Implementation with Node.js & Kafkajs - Order Management System / Inventory management System in 1 Hour..
 * [KAFKA - Implementation with Node.js & Kafkajs](https://github.com/TravelXML/KAFKA)
+* [TERRAFORM - Terraform as CODE](https://github.com/TravelXML/TERRAFORM-DETAIL-CODES)
 
 
 
