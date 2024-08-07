@@ -89,16 +89,15 @@
 * [Flipkart Scraping using Python](https://github.com/TravelXML/FLIPKART-PRODUCT-PRICE-SCRAPPING)
 
 
-
 ### KAFKA - Implementation with Node.js & Kafkajs - Order Management System / Inventory management System in 1 Hour..
 
 * [KAFKA - Implementation with Node.js & Kafkajs](https://github.com/TravelXML/KAFKA)
 
-### TERRAFORM - Terraform as CODE    
+### TERRAFORM - Infrastructure as code    
 
-* [TERRAFORM - Terraform as CODE](https://github.com/TravelXML/TERRAFORM-DETAIL-CODES)
+* [TERRAFORM - Infrastructure as code](https://github.com/TravelXML/TERRAFORM-DETAIL-CODES)
 
-### MACHINE LEARNING
+### MACHINE LEARNING TECHNIQUES
 
 * [APACHE SPARK: Data Analysis, Transformation, and Visualisation with PySpark](https://github.com/TravelXML/APACHE-SPARK-PYSPARK-DATABRICKS)
   
