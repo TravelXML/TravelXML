@@ -95,7 +95,7 @@
 
 ### TERRAFORM - Infrastructure as code    
 
-* [TERRAFORM - Infrastructure as code](https://github.com/TravelXML/TERRAFORM-DETAIL-CODES)
+* [TERRAFORM - Details Code](https://github.com/TravelXML/TERRAFORM-DETAIL-CODES)
 
 ### MACHINE LEARNING TECHNIQUES
 
