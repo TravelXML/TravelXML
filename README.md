@@ -82,7 +82,7 @@
 * [Disney Clone using GraphCMS, GraphQL, NEXT, React, Nodejs](https://github.com/TravelXML/DISNEY-CLONE-USING-GRAPHCMS-GRAPHQL-NEXT-REACT)
 
 
-#  Web Scraping using Python, Nodejs in 30 mins...
+###  Web Scraping using Python, Nodejs in 30 mins...
 
 * [Web Scraping using Nodejs, Axios, Cheerio](https://github.com/TravelXML/WEB-SCRAPING)
 
@@ -90,10 +90,18 @@
 
 
 
-#  KAFKA - Implementation with Node.js & Kafkajs - Order Management System / Inventory management System in 1 Hour..
+### KAFKA - Implementation with Node.js & Kafkajs - Order Management System / Inventory management System in 1 Hour..
+
 * [KAFKA - Implementation with Node.js & Kafkajs](https://github.com/TravelXML/KAFKA)
+
+### TERRAFORM - Terraform as CODE    
+
 * [TERRAFORM - Terraform as CODE](https://github.com/TravelXML/TERRAFORM-DETAIL-CODES)
+
+### MACHINE LEARNING
+
 * [APACHE SPARK: Data Analysis, Transformation, and Visualisation with PySpark](https://github.com/TravelXML/APACHE-SPARK-PYSPARK-DATABRICKS)
+  
 * [APACHE SPARK MACHINE LEARNING WITH MLlib TO ANALYZE RESTAURANT TIPS DATA](https://github.com/TravelXML/APACHE-SPARK-PYSPARK-DATABRICKS-MACHINE-LEARNING-MLIB)
 
 
