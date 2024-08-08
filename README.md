@@ -92,6 +92,8 @@
 ### KAFKA - Implementation with Node.js & Kafkajs - Order Management System / Inventory management System in 1 Hour..
 
 * [KAFKA - Implementation with Node.js & Kafkajs](https://github.com/TravelXML/KAFKA)
+* [KAFKA - Implementation on Amazon EC2 for Streaming Data to S3 with AWS Glue and Athena](https://github.com/TravelXML/KAFKA-PYTHON-AWS-CRAWLER-AMAZON-ATHENA)
+
 
 ### TERRAFORM - Infrastructure as code    
 
