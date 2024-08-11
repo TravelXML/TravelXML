@@ -99,7 +99,7 @@
 
 * [TERRAFORM - Details Code](https://github.com/TravelXML/TERRAFORM-DETAIL-CODES)
 
-### MACHINE LEARNING TECHNIQUES
+### AI/ ML
 
 * [APACHE SPARK: Data Analysis, Transformation, and Visualisation with PySpark](https://github.com/TravelXML/APACHE-SPARK-PYSPARK-DATABRICKS)
   
