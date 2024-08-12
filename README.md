@@ -109,7 +109,7 @@
 ### WEB3/ DAPPS/ CRYPTO/ NFT
 
 * [NFT Marketplace Built With Polygon, Solidity, IPFS & Next.js](https://github.com/TravelXML/POLYGON-NFT-MARKETPLACE)
-* [CREATE YOUR OWN CRYPTO CURRENCY](https://github.com/TravelXML/CREATE-CRYPTO-CURRENCY)
+* [Create your own crypto currency](https://github.com/TravelXML/CREATE-CRYPTO-CURRENCY)
 
 
 
