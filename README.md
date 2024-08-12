@@ -104,6 +104,13 @@
 * [APACHE SPARK: Data Analysis, Transformation, and Visualisation with PySpark](https://github.com/TravelXML/APACHE-SPARK-PYSPARK-DATABRICKS)
   
 * [APACHE SPARK MACHINE LEARNING WITH MLlib TO ANALYZE RESTAURANT TIPS DATA](https://github.com/TravelXML/APACHE-SPARK-PYSPARK-DATABRICKS-MACHINE-LEARNING-MLIB)
+  
+
+### WEB3/ DAPPS/ CRYPTO/ NFT
+
+* [NFT Marketplace Built With Polygon, Solidity, IPFS & Next.js](https://github.com/TravelXML/POLYGON-NFT-MARKETPLACE)
+* [CREATE YOUR OWN CRYPTO CURRENCY](https://github.com/TravelXML/CREATE-CRYPTO-CURRENCY)
+
 
 
 
