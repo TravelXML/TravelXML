@@ -105,7 +105,7 @@
   
 * [APACHE SPARK MACHINE LEARNING WITH MLlib TO ANALYZE RESTAURANT TIPS DATA](https://github.com/TravelXML/APACHE-SPARK-PYSPARK-DATABRICKS-MACHINE-LEARNING-MLIB)
   
-* [NLP-Amazon Product Reviews Sentiment Analysis in Python](https://github.com/TravelXML/Amazon-Product-Reviews-Sentiment-Analysis-in-Python)
+* [NLP - Amazon Product Reviews Sentiment Analysis in Python](https://github.com/TravelXML/Amazon-Product-Reviews-Sentiment-Analysis-in-Python)
 
 
   
