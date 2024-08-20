@@ -92,6 +92,7 @@
 ### KAFKA - Implementation with Node.js & Kafkajs - Order Management System / Inventory management System in 1 Hour..
 
 * [KAFKA - Implementation with Node.js & Kafkajs](https://github.com/TravelXML/KAFKA)
+  
 * [KAFKA - Implementation on Amazon EC2 for Streaming Data to S3 with AWS Glue and Athena](https://github.com/TravelXML/KAFKA-PYTHON-AWS-CRAWLER-AMAZON-ATHENA)
 
 
@@ -116,6 +117,7 @@
 ### WEB3/ DAPPS/ CRYPTO/ NFT
 
 * [NFT Marketplace Built With Polygon, Solidity, IPFS & Next.js](https://github.com/TravelXML/POLYGON-NFT-MARKETPLACE)
+  
 * [Create your own crypto currency](https://github.com/TravelXML/CREATE-CRYPTO-CURRENCY)
 
 
