@@ -107,6 +107,8 @@
   
 * [NLP - Amazon Product Reviews Sentiment Analysis in Python](https://github.com/TravelXML/Amazon-Product-Reviews-Sentiment-Analysis-in-Python)
 
+* [TENSORFLOW AND KERAS: SENTIMENT ANALYSIS USING RNN](https://github.com/TravelXML/TENSORFLOW-AND-KERAS-SENTIMENT-ANALYSIS-USING-RNN) 
+
 
   
 
