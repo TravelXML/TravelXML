@@ -111,6 +111,9 @@
 * [TENSORFLOW AND KERAS: SENTIMENT ANALYSIS USING RNN](https://github.com/TravelXML/TENSORFLOW-AND-KERAS-SENTIMENT-ANALYSIS-USING-RNN)
 
 * [TENSORFLOW: CREATE YOUR OWN CHATBOT](https://github.com/TravelXML/TENSORFLOW-BASED-CHATBOT-DEPLOYMENT-IN-PYTHON)
+  
+* [PYTORCH: PyTorch-based diabetes prediction model using Artificial Neural Networks (ANN) and Natural Language Processing (NLP)](https://github.com/TravelXML/PYTORCH-DIABETES-PREDICTION-ANN-NLP/)
+
 
   
 
