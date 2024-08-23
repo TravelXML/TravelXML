@@ -102,9 +102,9 @@
 
 ### AI/ ML
 
-* [APACHE SPARK: Data Analysis, Transformation, and Visualisation with PySpark](https://github.com/TravelXML/APACHE-SPARK-PYSPARK-DATABRICKS)
+* [APACHE SPARK: Big Data, Data Analysis, Transformation, and Visualisation with PySpark](https://github.com/TravelXML/APACHE-SPARK-PYSPARK-DATABRICKS)
   
-* [APACHE SPARK MACHINE LEARNING WITH MLlib TO ANALYZE RESTAURANT TIPS DATA](https://github.com/TravelXML/APACHE-SPARK-PYSPARK-DATABRICKS-MACHINE-LEARNING-MLIB)
+* [APACHE SPARK:  MACHINE LEARNING WITH MLlib TO ANALYZE RESTAURANT TIPS DATA](https://github.com/TravelXML/APACHE-SPARK-PYSPARK-DATABRICKS-MACHINE-LEARNING-MLIB)
   
 * [NLP - Amazon Product Reviews Sentiment Analysis in Python](https://github.com/TravelXML/Amazon-Product-Reviews-Sentiment-Analysis-in-Python)
 
@@ -112,7 +112,7 @@
 
 * [TENSORFLOW: CREATE YOUR OWN CHATBOT](https://github.com/TravelXML/TENSORFLOW-BASED-CHATBOT-DEPLOYMENT-IN-PYTHON)
   
-* [PYTORCH: PyTorch-based diabetes prediction model using Artificial Neural Networks (ANN) and Natural Language Processing (NLP)](https://github.com/TravelXML/PYTORCH-DIABETES-PREDICTION-ANN-NLP/)
+* [PYTORCH: PYTORCH-BASED DIABETES PREDICTION MODEL USING ANN AND NLP](https://github.com/TravelXML/PYTORCH-DIABETES-PREDICTION-ANN-NLP/)
 
 
   
