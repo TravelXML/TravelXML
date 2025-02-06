@@ -21,7 +21,7 @@
 - :necktie: Working with [Browntape Technologies](https://browntape.com/) Prior  - [Travjury Software :india:](https://www.travjury.com/),[openhotelier :maldives:](https://www.openhotelier.com/).
 - :computer: Hands-on: Flutter, Dart, Vue, React, Next, Node, Python. PHP, Go, Solidity 
 - :goggles: Looking on AI, ML, Blockchain
-- :dart: Ask anything about API...
+- :dart: ASK anything about scalable and distributed system design, microservices, APIs, and integrations....
 - ✏️ [https://apige.medium.com](https://apige.medium.com)
 
 
