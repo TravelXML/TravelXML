@@ -22,7 +22,7 @@
 - :computer: Hands-on: Flutter, Dart, Vue, React, Next, Node, Python. PHP, Go, Solidity 
 - :goggles: Looking on AI, ML, Blockchain
 - :dart: ASK anything about scalable and Distributed System Design, Microservices, APIs, and Integrations....
-- ✏️ [blog](https://ultimatesystemsdesign.medium.com/)
+- ✏️ My Write [ultimatesystemsdesign.medium.com](https://ultimatesystemsdesign.medium.com/)
 
 
 <br/>
