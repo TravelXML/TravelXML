@@ -19,7 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" align="right" /> 
 
 - :necktie: Working with [Browntape Technologies](https://browntape.com/) Prior  - [Travjury Software :india:](https://www.travjury.com/),[openhotelier :maldives:](https://www.openhotelier.com/).
-- :computer: Hands-on: Flutter, Dart, Vue, React, Next, Node, Python. PHP, Go, Solidity 
+- :computer: Hands-on: Python, GO, RUST, PHP, Vue, React, Next, Node, Solidity, Flutter, Dart
 - :goggles: Looking on AI, ML, Blockchain
 - :dart: ASK anything about scalable and Distributed System Design, Microservices, APIs, and Integrations....
 - ✏️ Write [ultimatesystemsdesign.medium.com](https://ultimatesystemsdesign.medium.com/)
