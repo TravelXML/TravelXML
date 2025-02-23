@@ -21,15 +21,13 @@
 - :necktie: Working with [Browntape Technologies](https://browntape.com/) Prior  - [Travjury Software :india:](https://www.travjury.com/),[openhotelier :maldives:](https://www.openhotelier.com/).
 - :computer: Hands-on: Python, GO, RUST, PHP, Vue, React, Next, Node, Solidity, Flutter, Dart
 - :goggles:  **AI/ ML:** 
-			In the ever-evolving market, I specialize in delivering state-of-the-art AI/ML solutions:
-  
-			  - **Core Frameworks & Models:** TensorFlow, PyTorch, Keras, OLLAMA, GPT  
-			  - **Advanced Systems:** RAG Systems, Generative AI  
-			  - **Applications:** Chatbots, Prediction Engines, Rank Engines, Recommendation Engines  
-			  These skills enable me to transform complex data into actionable insights and intelligent systems.
+            In the ever-evolving market, I specialize in delivering state-of-the-art AI/ML solutions:  
+	  - **Core Frameworks & Models:** TensorFlow, PyTorch, Keras, OLLAMA, GPT  
+	  - **Advanced Systems:** RAG Systems, Generative AI  
+	  - **Applications:** Chatbots, Prediction Engines, Rank Engines, Recommendation Engines  			  
 
 
-- :dart: ASK anything about scalable and Distributed System Design, Microservices, APIs, and Integrations....
+- :dart: **ASK anything about scalable and Distributed System Design, Microservices, APIs, and Integrations....**
 - ✏️ Write [ultimatesystemsdesign.medium.com](https://ultimatesystemsdesign.medium.com/)
 
 
