@@ -27,7 +27,7 @@
 	  - **Applications:** Chatbots, Prediction Engines, Rank Engines, Recommendation Engines  			  
 
 
-- :dart: **ASK anything about scalable and Distributed System Design, Microservices, APIs, and Integrations....**
+- :dart: **ASK Anything about Scalable and Distributed System Design, Microservices, APIs, and Integrations....**
 - ✏️ **Write** [ultimatesystemsdesign.medium.com](https://ultimatesystemsdesign.medium.com/)
 
 
