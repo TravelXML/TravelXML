@@ -73,6 +73,23 @@
 * [GRAPHQL API with RATE Limiting and Pagination - Docker](https://github.com/TravelXML/GraphQL-MySQL-API-with-JWT-Authentication-and-Rate-Limiting)
 * [SOAP API With PHP - MYSQL](https://github.com/TravelXML/SOAP-API-MYSQL-PHP-PAGINATION/tree/main)
 
+### AI/ ML
+
+* [APACHE SPARK: Big Data, Data Analysis, Transformation, and Visualisation with PySpark](https://github.com/TravelXML/APACHE-SPARK-PYSPARK-DATABRICKS)
+  
+* [APACHE SPARK:  MACHINE LEARNING WITH MLlib TO ANALYZE RESTAURANT TIPS DATA](https://github.com/TravelXML/APACHE-SPARK-PYSPARK-DATABRICKS-MACHINE-LEARNING-MLIB)
+  
+* [NLP - Amazon Product Reviews Sentiment Analysis in Python](https://github.com/TravelXML/Amazon-Product-Reviews-Sentiment-Analysis-in-Python)
+
+* [TENSORFLOW AND KERAS: SENTIMENT ANALYSIS USING RNN](https://github.com/TravelXML/TENSORFLOW-AND-KERAS-SENTIMENT-ANALYSIS-USING-RNN)
+
+* [TENSORFLOW: CREATE YOUR OWN CHATBOT](https://github.com/TravelXML/TENSORFLOW-BASED-CHATBOT-DEPLOYMENT-IN-PYTHON)
+  
+* [PYTORCH: PYTORCH-BASED DIABETES PREDICTION MODEL USING ANN](https://github.com/TravelXML/PYTORCH-DIABETES-PREDICTION-ANN-NLP/)
+  
+* [KERAS: Heart Attack Prediction Using Machine Learning](https://github.com/TravelXML/ML-HEART-ATTACK-EDA-PREDICTION-WITH-KERAS)
+
+
 
 <!--<a href="https://github.com/TravelXML">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravelXML&theme=light&hide_langs_below=1" />
@@ -107,23 +124,6 @@
 ### TERRAFORM - Infrastructure as code    
 
 * [TERRAFORM - Details Code](https://github.com/TravelXML/TERRAFORM-DETAIL-CODES)
-
-### AI/ ML
-
-* [APACHE SPARK: Big Data, Data Analysis, Transformation, and Visualisation with PySpark](https://github.com/TravelXML/APACHE-SPARK-PYSPARK-DATABRICKS)
-  
-* [APACHE SPARK:  MACHINE LEARNING WITH MLlib TO ANALYZE RESTAURANT TIPS DATA](https://github.com/TravelXML/APACHE-SPARK-PYSPARK-DATABRICKS-MACHINE-LEARNING-MLIB)
-  
-* [NLP - Amazon Product Reviews Sentiment Analysis in Python](https://github.com/TravelXML/Amazon-Product-Reviews-Sentiment-Analysis-in-Python)
-
-* [TENSORFLOW AND KERAS: SENTIMENT ANALYSIS USING RNN](https://github.com/TravelXML/TENSORFLOW-AND-KERAS-SENTIMENT-ANALYSIS-USING-RNN)
-
-* [TENSORFLOW: CREATE YOUR OWN CHATBOT](https://github.com/TravelXML/TENSORFLOW-BASED-CHATBOT-DEPLOYMENT-IN-PYTHON)
-  
-* [PYTORCH: PYTORCH-BASED DIABETES PREDICTION MODEL USING ANN](https://github.com/TravelXML/PYTORCH-DIABETES-PREDICTION-ANN-NLP/)
-  
-* [KERAS: Heart Attack Prediction Using Machine Learning](https://github.com/TravelXML/ML-HEART-ATTACK-EDA-PREDICTION-WITH-KERAS)
-
 
   
 
