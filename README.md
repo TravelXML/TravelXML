@@ -22,6 +22,7 @@
 - :computer: Hands-on: Python, GO, RUST, PHP, Vue, React, Next, Node, Solidity, Flutter, Dart
 - :goggles:  **AI/ ML:** 
 			In the ever-evolving market, I specialize in delivering state-of-the-art AI/ML solutions:
+  
 			  - **Core Frameworks & Models:** TensorFlow, PyTorch, Keras, OLLAMA, GPT  
 			  - **Advanced Systems:** RAG Systems, Generative AI  
 			  - **Applications:** Chatbots, Prediction Engines, Rank Engines, Recommendation Engines  
