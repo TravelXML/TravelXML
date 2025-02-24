@@ -125,7 +125,7 @@
 
 ### TERRAFORM - Infrastructure as code    
 
-* [TERRAFORM - Details Code](https://github.com/TravelXML/TERRAFORM-DETAIL-CODES)
+* [TERRAFORM - Infrastructre As Code(IAC)](https://github.com/TravelXML/TERRAFORM-DETAIL-CODES)
 
   
 
