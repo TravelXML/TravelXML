@@ -29,7 +29,7 @@
 ### AI / ML
 - **Frameworks & models:** TensorFlow, PyTorch, Keras, Ollama, GPT, DeepSeek R1
 - **Systems:** RAG, Generative AI
-- **Use cases:** Chatbots, prediction engines, ranking engines, recommendation engines
+- **Use cases:** Chatbots, Prediction Engines, Ranking Engines, Recommendation Engines
 
 ### Ask Me About
 - Distributed systems design
