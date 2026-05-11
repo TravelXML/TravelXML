@@ -32,10 +32,10 @@
 - **Use cases:** Chatbots, Prediction Engines, Ranking Engines, Recommendation Engines
 
 ### Ask Me About
-- Distributed systems design
+- Distributed Systems Design
 - Microservices
-- API architecture
-- Platform integrations
+- API Architecture
+- Platform Integrations
 ### Publications
 - ✍️ [Publications](https://www.amazon.co.uk/stores/Sapan-Kumar-Mohanty/author/B0GYDR1ZL6?ref=ap_rdr&shoppingPortalEnabled=true)
 
