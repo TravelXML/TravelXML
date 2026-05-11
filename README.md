@@ -1,34 +1,46 @@
-## APIBuilder PYTHON, GO, RUST, Node, REACT, PHP :raised_hand_with_fingers_splayed:
+## APIBuilder | Scalable Systems, APIs, AI/ML, Cloud 👋
 
-
-<a href="https://linkedin.com/in/travel-technology-cto" target=”_blank”>
-<img align="right" alt="CTO - Travel Technology" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/the-startup-cto/">
+  <img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@apige" target=”_blank”>
-<img align="right" alt="CTO, Product Owner, Project Manager" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://ultimatesystemsdesign.medium.com/">
+  <img align="right" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://twitter.com/htngapi" target=”_blank”>
-<img align="right" alt="API Developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/htngapi">
+  <img align="right" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
-<a href="https://github.com/TravelXML" target=”_blank”>
-<img align="right" alt="Travel Technology Consultant" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/TravelXML">
+  <img align="right" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" align="right" />
 
-<img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" align="right" /> 
+### Building across
+**Python . Java . Go · Rust · Node.js · React · PHP**
 
-- :necktie: Working with [rezlive :uae:](https://www.rezlive.com/) Prior  - [Ginesys :india:](https://ginesys.in/) [Travjury Software :india:](https://www.travjury.com/),[openhotelier :maldives:](https://www.openhotelier.com/).
-- :computer: **Hands-on:** Python, GO,JAVA, RUST, PHP, Vue, React, Next, Node, Solidity, Flutter, Dart
-- :goggles:  **AI/ ML:** 
-            In the ever-evolving market, I specialize in delivering state-of-the-art AI/ML solutions:  
-	  - **Core Frameworks & Models:** TensorFlow, PyTorch, Keras, OLLAMA, GPT*, DeepSeek R1  
-	  - **Advanced Systems:** RAG Systems, Generative AI  
-	  - **Applications:** Chatbots, Prediction Engines, Rank Engines, Recommendation Engines  			  
+### Current / Previous
+- 👔 Currently with [RezLive 🇦🇪](https://www.rezlive.com/)
+- Earlier with [Ginesys 🇮🇳](https://ginesys.in/), [Travjury Software 🇮🇳](https://www.travjury.com/), [Openhotelier 🇲🇻](https://www.openhotelier.com/)
 
+### Core Engineering
+- 💻 Python, Go, Java, Rust, PHP, Vue, React, Next.js, Node.js, Solidity, Flutter, Dart
+- 🏗️ Scalable systems, distributed architecture, microservices, APIs, integrations
 
-- :dart: **ASK Anything about Scalable and Distributed System Design, Microservices, APIs, and Integrations....**
-- ✏️ **Write** [ultimatesystemsdesign.medium.com](https://ultimatesystemsdesign.medium.com/)
+### AI / ML
+- **Frameworks & models:** TensorFlow, PyTorch, Keras, Ollama, GPT, DeepSeek R1
+- **Systems:** RAG, Generative AI
+- **Use cases:** Chatbots, prediction engines, ranking engines, recommendation engines
+
+### Ask Me About
+- Distributed systems design
+- Microservices
+- API architecture
+- Platform integrations
+### Publications
+- ✍️ [Publications](https://www.amazon.co.uk/stores/Sapan-Kumar-Mohanty/author/B0GYDR1ZL6?ref=ap_rdr&shoppingPortalEnabled=true)
+
+### Articles
+- ✍️ [ultimatesystemsdesign.medium.com](https://ultimatesystemsdesign.medium.com/)
 
 
 <br/>
