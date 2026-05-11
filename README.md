@@ -24,7 +24,7 @@
 
 ### Core Engineering
 - 💻 Python, Go, Java, Rust, PHP, Vue, React, Next.js, Node.js, Solidity, Flutter, Dart
-- 🏗️ Scalable systems, distributed architecture, microservices, APIs, integrations
+- 🏗️ Scalable Systems, Distributed Architecture, Microservices, APIs, Integrations
 
 ### AI / ML
 - **Frameworks & models:** TensorFlow, PyTorch, Keras, Ollama, GPT, DeepSeek R1
