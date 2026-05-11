@@ -18,7 +18,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" align="right" /> 
 
-- :necktie: Working with [Browntape Technologies](https://browntape.com/) Prior  - [Travjury Software :india:](https://www.travjury.com/),[openhotelier :maldives:](https://www.openhotelier.com/).
+- :necktie: Working with [rezlive](https://www.rezlive.com/) [ginesys](https://ginesys.in/) Prior  - [Travjury Software :india:](https://www.travjury.com/),[openhotelier :maldives:](https://www.openhotelier.com/).
 - :computer: **Hands-on:** Python, GO, RUST, PHP, Vue, React, Next, Node, Solidity, Flutter, Dart
 - :goggles:  **AI/ ML:** 
             In the ever-evolving market, I specialize in delivering state-of-the-art AI/ML solutions:  
