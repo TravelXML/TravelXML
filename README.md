@@ -20,7 +20,7 @@
 
 ### Current / Previous
 - 👔 Currently with [RezLive 🇦🇪](https://www.rezlive.com/)
-- Earlier with [Ginesys 🇮🇳](https://ginesys.in/), [Travjury Software 🇮🇳](https://www.travjury.com/), [Openhotelier 🇲🇻](https://www.openhotelier.com/) [Ignitionone 🇺🇸:](https://zetaglobal.com/)
+- Earlier with [Ginesys 🇮🇳](https://ginesys.in/), [Travjury Software 🇮🇳](https://www.travjury.com/), [Openhotelier 🇲🇻](https://www.openhotelier.com/), [Ignitionone 🇺🇸](https://zetaglobal.com/)
 
 ### Core Engineering
 - 💻 Python, Go, Java, Rust, PHP, Vue, React, Next.js, Node.js, Solidity, Flutter, Dart
