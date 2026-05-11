@@ -37,7 +37,6 @@
 - **Use Cases:** Chatbots, Prediction Engines, Ranking Engines, Recommendation Engines
 
 ### Ask Me About
-- CTO / VP Engineering leadership
 - Platform scale and modernization
 - Distributed systems design
 - Microservices and APIs
