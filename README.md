@@ -36,6 +36,8 @@
 - Microservices
 - API Architecture
 - Platform Integrations
+- Performance Engineering
+- Automations
 ### Publications
 - ✍️ [Publications](https://www.amazon.co.uk/stores/Sapan-Kumar-Mohanty/author/B0GYDR1ZL6?ref=ap_rdr&shoppingPortalEnabled=true)
 
