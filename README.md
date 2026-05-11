@@ -18,8 +18,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" align="right" /> 
 
-- :necktie: Working with [rezlive](https://www.rezlive.com/) [ginesys](https://ginesys.in/) Prior  - [Travjury Software :india:](https://www.travjury.com/),[openhotelier :maldives:](https://www.openhotelier.com/).
-- :computer: **Hands-on:** Python, GO, RUST, PHP, Vue, React, Next, Node, Solidity, Flutter, Dart
+- :necktie: Working with [rezlive :uae:](https://www.rezlive.com/) Prior  - [Ginesys :india:](https://ginesys.in/) [Travjury Software :india:](https://www.travjury.com/),[openhotelier :maldives:](https://www.openhotelier.com/).
+- :computer: **Hands-on:** Python, GO,JAVA, RUST, PHP, Vue, React, Next, Node, Solidity, Flutter, Dart
 - :goggles:  **AI/ ML:** 
             In the ever-evolving market, I specialize in delivering state-of-the-art AI/ML solutions:  
 	  - **Core Frameworks & Models:** TensorFlow, PyTorch, Keras, OLLAMA, GPT*, DeepSeek R1  
