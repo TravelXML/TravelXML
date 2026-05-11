@@ -1,4 +1,4 @@
-## APIBuilder | Scalable Systems, APIs, AI/ML, Cloud 👋
+## APIBuilder | Scalable Systems, Architecture Modernization, APIs, AI/ML, Cloud 👋
 
 <a href="https://www.linkedin.com/in/the-startup-cto/">
   <img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -22,22 +22,28 @@
 - 👔 Currently with [RezLive 🇦🇪](https://www.rezlive.com/)
 - Earlier with [Ginesys 🇮🇳](https://ginesys.in/), [Travjury Software 🇮🇳](https://www.travjury.com/), [Openhotelier 🇲🇻](https://www.openhotelier.com/), [Ignitionone 🇺🇸](https://zetaglobal.com/)
 
-### Core Engineering
-- 💻 Python, Go, Java, Rust, PHP, Vue, React, Next.js, Node.js, Solidity, Flutter, Dart
-- 🏗️ Scalable Systems, Distributed Architecture, Microservices, APIs, Integrations
+### Leadership Focus
+- Technology Strategy & Execution
+- Engineering Organization Leadership
+- Platform Modernization & Cloud Adoption
+- Distributed Systems & Microservices
+- API Architecture & Enterprise Integrations
+- Performance, Reliability & Scalability
+- AI/ML, RAG, and Intelligent Automation
 
 ### AI / ML
-- **Frameworks & models:** TensorFlow, PyTorch, Keras, Ollama, GPT, DeepSeek R1
-- **Systems:** RAG, Generative AI
-- **Use cases:** Chatbots, Prediction Engines, Ranking Engines, Recommendation Engines
+- **Frameworks & Models:** TensorFlow, PyTorch, Keras, Ollama, GPT, DeepSeek R1
+- **Systems:** RAG, Generative AI, Intelligent Automation
+- **Use Cases:** Chatbots, Prediction Engines, Ranking Engines, Recommendation Engines
 
 ### Ask Me About
-- Distributed Systems Design
-- Microservices
-- API Architecture
-- Platform Integrations
-- Performance Engineering
-- Automations
+- CTO / VP Engineering leadership
+- Platform scale and modernization
+- Distributed systems design
+- Microservices and APIs
+- Performance engineering
+- AI-enabled product engineering
+
 ### Publications
 - ✍️ [Publications](https://www.amazon.co.uk/stores/Sapan-Kumar-Mohanty/author/B0GYDR1ZL6?ref=ap_rdr&shoppingPortalEnabled=true)
 
