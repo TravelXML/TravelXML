@@ -22,14 +22,6 @@
 - 👔 [RezLive 🇦🇪](https://www.rezlive.com/)
 - Earlier with [Ginesys 🇮🇳](https://ginesys.in/), [Travjury Software 🇮🇳](https://www.travjury.com/), [Openhotelier 🇲🇻](https://www.openhotelier.com/), [Ignitionone 🇺🇸](https://zetaglobal.com/)
 
-### Leadership Focus
-- Technology Strategy & Execution
-- Engineering Organization Leadership
-- Platform Modernization & Cloud Adoption
-- Distributed Systems & Microservices
-- API Architecture & Enterprise Integrations
-- Performance, Reliability & Scalability
-- AI/ML, RAG, and Intelligent Automation
 
 ### AI / ML
 - **Frameworks & Models:** TensorFlow, PyTorch, Keras, Ollama, GPT, DeepSeek R1
@@ -42,6 +34,8 @@
 - Microservices and APIs
 - Performance engineering
 - AI-enabled product engineering
+- Automations
+- AI/ML
 
 ### Publications
 - ✍️ [Publications](https://www.amazon.co.uk/stores/Sapan-Kumar-Mohanty/author/B0GYDR1ZL6?ref=ap_rdr&shoppingPortalEnabled=true)
