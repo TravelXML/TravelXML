@@ -19,7 +19,7 @@
 **Python . Java . Go · Rust · Node.js · React · PHP**
 
 ### Current / Previous
-- 👔 Currently with [RezLive 🇦🇪](https://www.rezlive.com/)
+- 👔 [RezLive 🇦🇪](https://www.rezlive.com/)
 - Earlier with [Ginesys 🇮🇳](https://ginesys.in/), [Travjury Software 🇮🇳](https://www.travjury.com/), [Openhotelier 🇲🇻](https://www.openhotelier.com/), [Ignitionone 🇺🇸](https://zetaglobal.com/)
 
 ### Leadership Focus
@@ -80,6 +80,7 @@
 
 ### You are JUST 5 minutes away to create Your First API, what YOU are waiting for? Lets START..
 
+* [REST API with JAVA 21 - Spring Boot](https://github.com/TravelXML/DistriOS)
 * [REST API with PYTHON - FLASK](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PYTHON)
 * [REST API with PYTHON - DJANGO - RESTFRAMEWORK](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PYTHON-DJANGO-REST-FRAMEWORK)
 
