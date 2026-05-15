@@ -2,16 +2,16 @@
 
 
 <a href="https://ultimatesystemsdesign.medium.com/">
-  <img align="right" alt="Medium" width="22px" src="https://cdn.simpleicons.org/medium" />
+  <img align="right" alt="Medium" width="12px" src="https://cdn.simpleicons.org/medium" />
 </a>
 <a href="https://x.com/htngapi">
-  <img align="right" alt="X" width="22px" src="https://cdn.simpleicons.org/x" />
+  <img align="right" alt="X" width="12px" src="https://cdn.simpleicons.org/x" />
 </a>
 <a href="https://github.com/TravelXML">
-  <img align="right" alt="GitHub" width="22px" src="https://cdn.simpleicons.org/github" />
+  <img align="right" alt="GitHub" width="12px" src="https://cdn.simpleicons.org/github" />
 </a>
 <a href="https://www.linkedin.com/in/the-startup-cto/">
-  <img align="right" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
+  <img align="right" alt="LinkedIn" width="12px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" align="right" />
