@@ -11,7 +11,7 @@
   <img align="right" alt="GitHub" width="15px" src="https://cdn.simpleicons.org/github" />
 </a>
 <a href="https://www.linkedin.com/in/the-startup-cto/">
-  <img align="right" alt="LinkedIn" width="15px" src="[https://cdn.simpleicons.org/linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)" />
+  <img align="right" alt="LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" align="right" />
