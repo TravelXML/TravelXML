@@ -1,16 +1,16 @@
 ## APIBuilder | Scalable Systems, Architecture Modernization, APIs, AI/ML, Cloud 👋
 
 <a href="https://www.linkedin.com/in/the-startup-cto/">
-  <img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <a href="https://ultimatesystemsdesign.medium.com/">
-  <img align="right" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="right" alt="Medium" width="22px" src="https://cdn.simpleicons.org/medium" />
 </a>
-<a href="https://twitter.com/htngapi">
-  <img align="right" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://x.com/htngapi">
+  <img align="right" alt="X" width="22px" src="https://cdn.simpleicons.org/x" />
 </a>
 <a href="https://github.com/TravelXML">
-  <img align="right" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="right" alt="GitHub" width="22px" src="https://cdn.simpleicons.org/github" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=TravelXML&label=Views&color=blue&style=plastic" alt="TravelXML" align="right" />
