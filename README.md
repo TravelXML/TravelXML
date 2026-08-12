@@ -65,7 +65,7 @@
 
 
 ### AI/ ML
-*[Open-source Python toolkit to inspect, test, secure, optimize, and operationalize GenAI applications before production](https://github.com/TravelXML/GenAIScope)
+* [Open-source Python toolkit to inspect, test, secure, optimize, and operationalize GenAI applications before production](https://github.com/TravelXML/GenAIScope)
 
 * [GENAI - DeepSeek Code Companion Chat Bot: OLLAMA, Langchain, Deepseek R1](https://github.com/TravelXML/GENAI/tree/main/DeepSeek-R1)
 
