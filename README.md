@@ -25,19 +25,17 @@
 
 
 ### AI / ML
-- **Frameworks & Models:** langchain, AutoGen, CrewAI, TensorFlow, PyTorch, Keras, Ollama, GPT, DeepSeek R1
-- **Systems:** RAG, Generative AI, Intelligent Automation
-- **Use Cases:** Chatbots, Prediction Engines, Ranking Engines, Recommendation Engines, Create Itinary System ( Multi Agents ), Create Package ( Combo ), Price and demand predictions or forcasts
+- **Frameworks & Models:** LangChain, LangGraph, AutoGen, CrewAI, TensorFlow, PyTorch, Keras, Ollama, GPT, DeepSeek
+- **Systems:** GenAI, RAG, Agentic AI, Multi-Agent Systems, AI Memory, Intelligent Automation
+- **Use Cases:** Chatbots, Recommendation & Ranking Engines, Prediction & Forecasting, Travel Itinerary & Package Generation, Pricing and Demand Forecasting
 
 ### Ask Me About
-- GENAI, RAG, Multiagent Systems
-- Platform scale and modernization
-- Distributed systems design
-- Microservices and APIs
-- Performance engineering
-- AI-enabled product engineering
-- Automations
-- AI/ML
+- GenAI, RAG, AI Agents & Multi-Agent Systems
+- AI-enabled Product Engineering & Automation
+- Enterprise Architecture & Modernization
+- Distributed Systems, Microservices & APIs
+- Cloud, Scalability & Performance Engineering
+- AI/ML Platforms
 
 ### Publications
 - ✍️ [Publications](https://www.amazon.co.uk/stores/Sapan-Kumar-Mohanty/author/B0GYDR1ZL6?ref=ap_rdr&shoppingPortalEnabled=true)
@@ -66,15 +64,8 @@
 <code><img height="20" src="https://user-images.githubusercontent.com/8361967/138249015-3c9dbdc7-30ba-42f2-9498-c0931c50cf5e.png" title ="Laravel"></code> 
 
 
-
-## [BUILD REST/ GRAPHQL/ SOAP API and White-Label Business using Most Trending Technology & Frameworks](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples)
-
-<a href="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/" target=”_blank”>
-  <img align="center" src="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/blob/main/images/Build%20REST%20api.png" />
-
-</a>
-
 ### AI/ ML
+*[Open-source Python toolkit to inspect, test, secure, optimize, and operationalize GenAI applications before production](https://github.com/TravelXML/GenAIScope)
 
 * [GENAI - DeepSeek Code Companion Chat Bot: OLLAMA, Langchain, Deepseek R1](https://github.com/TravelXML/GENAI/tree/main/DeepSeek-R1)
 
@@ -91,6 +82,15 @@
 * [PYTORCH: PYTORCH-BASED DIABETES PREDICTION MODEL USING ANN](https://github.com/TravelXML/PYTORCH-DIABETES-PREDICTION-ANN-NLP/)
   
 * [KERAS: Heart Attack Prediction Using Machine Learning](https://github.com/TravelXML/ML-HEART-ATTACK-EDA-PREDICTION-WITH-KERAS)
+  
+
+  
+## [BUILD REST/ GRAPHQL/ SOAP API and White-Label Business using Most Trending Technology & Frameworks](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples)
+
+<a href="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/" target=”_blank”>
+  <img align="center" src="https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/blob/main/images/Build%20REST%20api.png" />
+
+</a>
   
 ### You are JUST 5 minutes away to create Your First API, what YOU are waiting for? Lets START..
 
