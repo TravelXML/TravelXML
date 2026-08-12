@@ -25,11 +25,12 @@
 
 
 ### AI / ML
-- **Frameworks & Models:** TensorFlow, PyTorch, Keras, Ollama, GPT, DeepSeek R1
+- **Frameworks & Models:** langchain, AutoGen, CrewAI, TensorFlow, PyTorch, Keras, Ollama, GPT, DeepSeek R1
 - **Systems:** RAG, Generative AI, Intelligent Automation
-- **Use Cases:** Chatbots, Prediction Engines, Ranking Engines, Recommendation Engines
+- **Use Cases:** Chatbots, Prediction Engines, Ranking Engines, Recommendation Engines, Create Itinary System ( Multi Agents ), Create Package ( Combo ), Price and demand predictions or forcasts
 
 ### Ask Me About
+- GENAI, RAG, Multiagent Systems
 - Platform scale and modernization
 - Distributed systems design
 - Microservices and APIs
@@ -73,23 +74,6 @@
 
 </a>
 
-### You are JUST 5 minutes away to create Your First API, what YOU are waiting for? Lets START..
-
-* [REST API with JAVA 21 - Spring Boot](https://github.com/TravelXML/DistriOS)
-* [REST API with PYTHON - FLASK](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PYTHON)
-* [REST API with PYTHON - DJANGO - RESTFRAMEWORK](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PYTHON-DJANGO-REST-FRAMEWORK)
-
-* [REST API with PYTHON - FASTAPI + LLAMA](https://github.com/TravelXML/PYTHON-FASTAPI-AI-LLAM-POSTGRESSQL-AWS-AI)
-* [REST API with GO - MUX](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/GOLANG-MUX)  
-
-* [REST API with GO - GIN](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/GOLANG-GIN)
-* [REST API with NodeJS - EXPRESS](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/NODEJS-EXPRESS-MYSQL)
-* [REST API with NodeJS - EXPRESS- JWT - SEQUELlZE](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/NODEJS-EXPRESS-SEQUELlZE-JWT-AUTH)
-* [REST API with PHP - OOPS](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PHP-OOPS)  
-* [REST API with LARAVEL - PASSPORT](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/LARAVEL-PASSPORT)
-* [GRAPHQL API with RATE Limiting and Pagination - Docker](https://github.com/TravelXML/GraphQL-MySQL-API-with-JWT-Authentication-and-Rate-Limiting)
-* [SOAP API With PHP - MYSQL](https://github.com/TravelXML/SOAP-API-MYSQL-PHP-PAGINATION/tree/main)
-
 ### AI/ ML
 
 * [GENAI - DeepSeek Code Companion Chat Bot: OLLAMA, Langchain, Deepseek R1](https://github.com/TravelXML/GENAI/tree/main/DeepSeek-R1)
@@ -107,8 +91,23 @@
 * [PYTORCH: PYTORCH-BASED DIABETES PREDICTION MODEL USING ANN](https://github.com/TravelXML/PYTORCH-DIABETES-PREDICTION-ANN-NLP/)
   
 * [KERAS: Heart Attack Prediction Using Machine Learning](https://github.com/TravelXML/ML-HEART-ATTACK-EDA-PREDICTION-WITH-KERAS)
+  
+### You are JUST 5 minutes away to create Your First API, what YOU are waiting for? Lets START..
 
+* [REST API with JAVA 21 - Spring Boot](https://github.com/TravelXML/DistriOS)
+* [REST API with PYTHON - FLASK](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PYTHON)
+* [REST API with PYTHON - DJANGO - RESTFRAMEWORK](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PYTHON-DJANGO-REST-FRAMEWORK)
 
+* [REST API with PYTHON - FASTAPI + LLAMA](https://github.com/TravelXML/PYTHON-FASTAPI-AI-LLAM-POSTGRESSQL-AWS-AI)
+* [REST API with GO - MUX](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/GOLANG-MUX)  
+
+* [REST API with GO - GIN](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/GOLANG-GIN)
+* [REST API with NodeJS - EXPRESS](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/NODEJS-EXPRESS-MYSQL)
+* [REST API with NodeJS - EXPRESS- JWT - SEQUELlZE](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/NODEJS-EXPRESS-SEQUELlZE-JWT-AUTH)
+* [REST API with PHP - OOPS](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/PHP-OOPS)  
+* [REST API with LARAVEL - PASSPORT](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/tree/main/LARAVEL-PASSPORT)
+* [GRAPHQL API with RATE Limiting and Pagination - Docker](https://github.com/TravelXML/GraphQL-MySQL-API-with-JWT-Authentication-and-Rate-Limiting)
+* [SOAP API With PHP - MYSQL](https://github.com/TravelXML/SOAP-API-MYSQL-PHP-PAGINATION/tree/main)
 
 <!--<a href="https://github.com/TravelXML">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravelXML&theme=light&hide_langs_below=1" />
