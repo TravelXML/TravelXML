@@ -59,9 +59,6 @@
 - ✍️ [ultimatesystemsdesign.medium.com](https://ultimatesystemsdesign.medium.com/)
 
 
-<br/>
-<br/>
-
 ### AI/ ML
 
 * [Multi-Agent Travel AI using LangGraph, LangChain, MCP, PostgreSQL memory and LangSmith](https://github.com/TravelXML/Multi_Agent_System_LangGraph_Langchain_Travel_Itinerary)
