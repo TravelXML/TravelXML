@@ -63,6 +63,8 @@
 
 * [Multi-Agent Travel AI using LangGraph, LangChain, MCP, PostgreSQL memory and LangSmith](https://github.com/TravelXML/AI_Multi_Agent_System_LangGraph_Langchain_Travel_Itinerary)
   
+* [Enterprise Multi-Agent Banking AI Platform with CrewAI](https://github.com/TravelXML/AI_Enterprise_Multi-Agent_Banking_Platform)
+  
 * [Open-source Python toolkit to inspect, test, secure, optimize, and operationalize GenAI applications before production](https://github.com/TravelXML/GenAIScope)
 
 * [GENAI - DeepSeek Code Companion Chat Bot: OLLAMA, Langchain, Deepseek R1](https://github.com/TravelXML/GENAI/tree/main/DeepSeek-R1)
